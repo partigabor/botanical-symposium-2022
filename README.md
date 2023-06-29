@@ -1,6 +1,6 @@
 # botanical-symposium-2022
 
-A repository to host data and visualizations for a poster submission at the [Botanical Symposium 2022](https://event.fourwaves.com/botanicalsymposium2022/pages), held at The Hong Kong Polytechnic University and online on December 1, 2022.
+A repository to host data and visualizations for a [poster](https://event.fourwaves.com/botanicalsymposium2022/abstracts/1ea06222-f8a6-400c-8c92-de4e419a56f3) submission at the [Botanical Symposium 2022](https://event.fourwaves.com/botanicalsymposium2022/pages), held at The Hong Kong Polytechnic University and online on December 1, 2022.
 
 ### Fragrance from the periphery and beyond: Mapping the origins of foreign spices in Chinese *materia medica*
 
@@ -18,4 +18,4 @@ A repository to host data and visualizations for a poster submission at the [Bot
 
 *Size* represents the number of native regions as per [POWO](https://powo.science.kew.org/). The bigger a data point is, the more widespread it is in that area.
 
-For more, please see the poster.
+For more, please see the [poster](https://event.fourwaves.com/botanicalsymposium2022/abstracts/1ea06222-f8a6-400c-8c92-de4e419a56f3) submission at the [Botanical Symposium 2022](https://event.fourwaves.com/botanicalsymposium2022/pages) iself.
