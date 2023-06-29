@@ -18,4 +18,4 @@ A repository to host data and visualizations for a [poster](https://event.fourwa
 
 *Size* represents the number of native regions as per [POWO](https://powo.science.kew.org/). The bigger a data point is, the more widespread it is in that area.
 
-For more, please see the [poster](https://event.fourwaves.com/botanicalsymposium2022/abstracts/1ea06222-f8a6-400c-8c92-de4e419a56f3) submission at the [Botanical Symposium 2022](https://event.fourwaves.com/botanicalsymposium2022/pages) iself.
+For more, please see the [poster](https://event.fourwaves.com/botanicalsymposium2022/abstracts/1ea06222-f8a6-400c-8c92-de4e419a56f3).
