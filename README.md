@@ -5,6 +5,7 @@ A repository to host data and visualizations for a poster submission at the [Bot
 ### Fragrance from the periphery and beyond: Mapping the origins of foreign spices in Chinese *materia medica*
 
 > by Gábor Parti, Chu-Ren Huang
+
 > The Hong Kong Polytechnic University
 
 ### Interactive map
