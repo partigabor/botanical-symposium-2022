@@ -6,7 +6,7 @@ A repository to host data and visualizations for a [poster](https://event.fourwa
 
 > by Gábor Parti, Chu-Ren Huang (The Hong Kong Polytechnic University)
 
-#### **Explore** the interactive map in your browser by clicking this [link.](https://htmlpreview.github.io/?https://github.com/partigabor/botanical-symposium-2022/blob/main/distribution.html)
+#### [**Explore** the interactive map in your browser by clicking this link.](https://htmlpreview.github.io/?https://github.com/partigabor/botanical-symposium-2022/blob/main/distribution.html)
 
 * Use the mouse to rotate the globe, zoom in and out.
 
