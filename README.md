@@ -14,8 +14,8 @@ A repository to host data and visualizations for a [poster](https://event.fourwa
 
 * Double-click on plant families in the legend to isolate them.
 
-*Color* represents various plant families;
+* *Color* represents various plant families;
 
-*Size* represents the number of native regions as per [POWO](https://powo.science.kew.org/). The bigger a data point is, the more widespread it is in the approximate surrounding area.
+* *Size* represents the number of native regions as per [POWO](https://powo.science.kew.org/). The bigger a data point is, the more widespread it is in the approximate surrounding area.
 
 For more, please see the [poster](https://event.fourwaves.com/botanicalsymposium2022/abstracts/1ea06222-f8a6-400c-8c92-de4e419a56f3).
